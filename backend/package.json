@@ -2,6 +2,7 @@
   "name": "@littra/chat-engine-backend",
   "version": "0.1.0",
   "description": "Multi-tenant chat engine backend package",
+  "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
